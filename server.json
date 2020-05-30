@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://cdn.cnn.com/cnnnext/dam/assets/171027052520-processed-foods-super-tease.jpg",
+      "name": "Hot Dog",
+      "price": "19.55",
+      "description": "American Hot Dog",
+      "available": true,
+      "id": 4
     }
   ]
 }
